@@ -6,7 +6,7 @@ There are dozens of task/to-do tools that are much better than this, so why both
 
 TaskTool probably isn't perfect, and only prepresents what I have learnt so far. There may be better ways to do things, and future plans include a GUI version. That's a way off at the moment though.
 
-![image](https://github.com/https://github.com/rwaddilove/tasktool-java/blob/main/tasktool1.jpg)
+![image](https://github.com/rwaddilove/tasktool-java/blob/main/tasktool1.jpg)
 
 If you are learning Java, I hope you find this useful. It's longer than the usual examples you get in courses, but not as complex as a pro project.
 Roland Waddilove
