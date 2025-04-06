@@ -192,7 +192,7 @@ class Task {
         String overdueTasks = "";
         String todayTasks = "";
         for (ArrayList<String> tsk : tasks) {
-            if (tsk.get(1).isBlank() || tsk.get(4).equals("yes")) continue;  // not due, not done
+            if (tsk.get(1).isBlank() || tsk.get(4).equals("yes")) continue;  // no due date or done
             LocalDate tskdue = LocalDate.parse(tsk.get(1), formatter);
             if (currentDate.isAfter(tskdue))        // it's after due date?
                 overdueTasks += String.format("Task: %-18s Due: %-10s\n", tsk.get(0), tsk.get(1));
