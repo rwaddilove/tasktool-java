@@ -10,3 +10,5 @@ TaskTool probably isn't perfect, and only uses what I have learnt so far. There 
 
 If you are learning Java, I hope you find this useful. It's longer than the usual examples you get in courses, but not as complex as a pro project.
 Roland Waddilove
+
+**Update**: [TaskToolCmd](https://github.com/rwaddilove/TaskToolCmd) is a version of this that runs from the command line. You interact with it like: 'TaskToolCmd sort label' to sort by label for example. There is always more than one way to do things and I rewrote a fair bit, partly to see if it was any better another way, or simply to learn more/better Java.
